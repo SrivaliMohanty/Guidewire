@@ -293,7 +293,7 @@ Not all fraud is a ring. Some is opportunistic. We prevent punishing honest work
 
 **External Integrations (Free Tier / Mock):**
 - OpenWeatherMap API (weather triggers)
-- CPCB AQI API (air quality triggers — free government API)
+- CPCB AQI API (air quality triggers)
 - IMD alert RSS feed (flood/heat advisories)
 - Razorpay Test Mode (payout simulation)
 - Simulated platform API (mock Zomato/Swiggy activity logs via local JSON fixtures)
@@ -301,8 +301,7 @@ Not all fraud is a ring. Some is opportunistic. We prevent punishing honest work
 **Infrastructure:**
 - Docker (containerized Node + PostgreSQL + Redis)
 - GitHub Actions (CI/CD)
-- Render / Railway (free tier deployment for demo)
-
+- Render / Railway 
 ### 6-Week Development Plan
 
 | Phase | Weeks | Focus | Key Deliverables |
