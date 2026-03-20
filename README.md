@@ -349,6 +349,3 @@ GigShield strictly adheres to the following constraints:
 All parametric triggers are based on **third-party verifiable data sources** — no worker-initiated claims, no subjective assessments.
 
 ---
-
-*Built for Guidewire DEVTrails 2026 — Phase 1 Submission*
-*Deadline: March 20, 2026*
